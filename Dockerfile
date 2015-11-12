@@ -1,6 +1,6 @@
-FROM ubuntu:14.10
+FROM ubuntu:14.04.3
 
-MAINTAINER Yury Borunov <yury@borunov.com>
+MAINTAINER Yuri Borunov <yuri@borunov.com>
 
 # Install OS.
 RUN \
